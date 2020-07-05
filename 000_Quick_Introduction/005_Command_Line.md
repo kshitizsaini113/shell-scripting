@@ -8,7 +8,7 @@
 * **Ctrl + R :** Search through previous run command
 * **Ctrl + C :** Cancel current running command
 * **Ctrl + T :** Swap last two character before cursor
-* **Esc + T :** Swap last two word before cursor
+* **Esc + T  :** Swap last two word before cursor
 * **Ctrl + H :** Delete letter starting at cursor
 
 ## Getting Help in Linux

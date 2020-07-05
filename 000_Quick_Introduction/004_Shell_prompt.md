@@ -10,7 +10,7 @@
 
     K Term -> KDE Terminal
 
-* **Cnnecting via SSH :** We get shell prompt as we login remotely.
+* **Connecting via SSH :** We get shell prompt as we login remotely.
 
 * **Using console :** Text-based login.
 
@@ -19,7 +19,7 @@
 ```
 $cat /etc/shells
 ```
-lists all the available shells in our linux distribution.
+Lists all the available shells in our Linux distribution.
 
 #### How to list the current shell?
 * echo $SHELL

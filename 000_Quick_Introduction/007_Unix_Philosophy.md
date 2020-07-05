@@ -13,4 +13,4 @@ Philosophical approach to software development bsed on experience of leading dev
 * Portablity over efficiency.
 * Keep it simple + stupid (KISS)
 
-Switching to terminal -> **Ctrl + Alt +F1**
+Switching to login terminal -> **Ctrl + Alt +F1**

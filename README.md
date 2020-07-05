@@ -24,7 +24,7 @@ Data Structure and Algorithms
 |   ├── 006_BASH_Shell.md
 |   ├── 007_Unix_Philosophy.md
 |   ├── 008_What_is_Shell_Script.md
-│   └── 009_Whay_Shell_Script.md
+│   └── 009_Why_Shell_Script.md
 │
 ├── CONTRIBUTING.md           
 |

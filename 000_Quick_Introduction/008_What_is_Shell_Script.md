@@ -2,7 +2,7 @@
 
 > [UNIX PHILOSOPHY](007_Unix_Philosophy.md) --- [HOME](../README.md) --- [WHY SHELL SCRIPT](009_Why_Shell_Script.md)
 
-* Shell script cn be defined as *a series of command stored in a plain text file.*
+* Shell script can be defined as *a series of commands stored in a plain text file.*
 * Similar to batch file, but is much more powerful.
 * Fundamental part of Unix and Linux environment.
 

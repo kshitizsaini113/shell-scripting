@@ -2,7 +2,7 @@
 
 > [WHAT IS LINUX SHELL](002_What_is_Linux_Kernel.md) --- [HOME](../README.md) --- [SHELL PROMPT](004_Shell_prompt.md)
 
-* User program/environment for user interaction.
+* Provides user program/environment for user interaction.
 * Command language interpretor which read from standard input.
 * Gets started when we login or start the terminal.
 * Shell is not a part of Kernel, but uses Kernel to execute programs.
