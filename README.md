@@ -6,6 +6,7 @@ The documentation is written by [Kshitiz Saini](https://www.linkedin.com/in/kshi
 
 1. [Quick Introduction - LINUX](000_Quick_Introduction/001_What_is_Linux.md)
 2. [Getting Started - BASH](001_Getting_Started/001_BASH_Shell.md)
+3. [Shell Variables - SHELL](002_Shell_Variables/001_Shell_Variables.md)
 
 
 ### Implementation tree
@@ -36,6 +37,21 @@ Data Structure and Algorithms
 |   ├── 006_Comments_in_Shell.md
 |   ├── 007_Executing_a_Shell_Script.md
 │   └── 008_Debugging_a_Shell_Script.md
+|
+├── 002_Shell_Variables
+|   ├── 001_Shell_Variables.md
+|   ├── 002_echo_vs_printf.md
+|   ├── 003_Quoting.md
+|   ├── 004_User_Input.md
+|   ├── 005_Arithmetic_Operations.md
+|   ├── 006_Checking_variable_existance.md
+|   ├── 007_Locating_commands.md
+|   ├── 008_Curly_braces_and_Wildcards.md
+|   ├── 009_Aliases.md
+|   ├── 010_Tilde_expression_and_Startup_scripts.md
+│   └── 011_BASH_Prompt.md
+│
+├── _config.yml
 │
 ├── CONTRIBUTING.md           
 |
